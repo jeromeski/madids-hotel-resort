@@ -1,0 +1,120 @@
+/* global styles
+/* ------------------------------------------------------------------------ */
+*, *:after, *:before {
+  outline: none;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: $color-white-bg;
+  height: 100vh;
+}
+
+body {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body, address, li, dt, dd  {
+  font-size: 15px;
+  line-height: 25px;
+  font-weight: 500;
+  text-transform: none;
+  letter-spacing: 0;
+  font-family: Quicksand, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0 0 20px;
+}
+
+@media (max-width: 768px) {
+  h1, h2, h3, h4, h5, h6 {
+    margin: 0 0 14px;
+  }
+}
+
+dt {
+  font-weight: bold !important;
+}
+
+address {
+  margin-bottom: 0;
+}
+
+time {
+  color: #949ca5;
+}
+
+img {
+  outline: none;
+}
+
+ul, ol, dl {
+  margin-bottom: 20px;
+}
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul {
+  list-style-type: disc;
+  list-style-position: inside;
+}
+
+ol {
+  list-style-type: decimal;
+  list-style-position: inside;
+}
+
+ul ul, ol ul {
+  list-style-type: circle;
+  list-style-position: inside;
+  margin-left: 15px;
+}
+
+ol ol, ul ol {
+  list-style-type: lower-latin;
+  list-style-position: inside;
+}
+
+p {
+  margin: 0 0 20px;
+}
+@media (max-width: 768px) {
+  p {
+    margin: 0 0 10px;
+  }
+}
+
+textarea.form-control {
+  padding: 12px;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+h1, h2, h3, h4, h5, h6, .banner-title {
+  font-family: Quicksand, sans-serif;
+  font-weight: 700;
+  text-transform: inherit;
+  text-align: inherit;
+}
+
+button:active, button:hover, button:focus {
+    outline: none !important;
+}
+
+a:hover, a:active, a:focus {
+    text-decoration: none;
+    outline: none;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}
