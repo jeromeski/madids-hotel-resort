@@ -59,7 +59,7 @@ const Rating = ({ children, averageRating, isLoading }) => {
 
 						if (lastChild === idx)
 							return React.cloneElement(child, {
-								starText: "Very Good"
+								starText: "Good"
 							});
 						if (emptyStarIdx === idx) {
 							return React.cloneElement(child, {
