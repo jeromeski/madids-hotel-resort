@@ -7,7 +7,7 @@ import CardList from "../components/cards/CardList";
 import data from "../data/db";
 
 const Home = () => {
-	console.log(data);
+
 	return (
 		<Container>
 			<Row>

@@ -286,10 +286,6 @@
           margin-top: 1px;
         }
 
-        & .dropup {
-          margin-top: -2px !important;
-        }
-
         & .dropdown-menu > li:first-child a {
           border-radius: 4px 4px 0 0;
         }
@@ -315,20 +311,28 @@
 
       & .footer-left {
           margin-left: auto;
-        @media screen {
+
+          @media (max-width: 768px) {
           margin-left: 0;
         }
 
         & .rating {
           color: #949ca5;
-  
-          & > * {
+
+          @media (max-width: 768px) {
+            margin-left: 0;
+            transform: none;
+          }
+          
+          & > *:not(:last-child) {
             margin: 0;
             padding: 0;
+            margin-right: 3px;
+            
           }
 
-          & > *:not(:last-child) {
-            margin-right: 3px;
+          & > *:last-child() {
+            margin-left: 5px;
           }
   
           & .fa-star {

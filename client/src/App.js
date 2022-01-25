@@ -1,6 +1,7 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "./assets/css/bootstrap.min.css";
+import "./assets/css/font-awesome.min.css";
 import "./assets/sass/main.scss";
 import Home from "./pages/Home";
 

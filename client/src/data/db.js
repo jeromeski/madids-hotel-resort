@@ -7,16 +7,14 @@ export default () => [
 		bedrooms: 2,
 		baths: 1,
 		guests: 2,
-		imgUrl:
-			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-16_b2pziw.jpg",
+		imgUrl: "card-room-430x430-16.jpg",
 		isFeatured: true,
 		price: "175.00",
 		hostedBy: {
 			name: "Teresa Bradley",
-			imgUrl:
-				"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996358/avatars/card-host-150x150-13_avptr9.jpg"
+			imgUrl: "card-host-150x150-13.jpg"
 		},
-		averageRating: 4
+		averageRating: 4.5
 	},
 	{
 		id: 2,
@@ -25,16 +23,14 @@ export default () => [
 		bedrooms: 2,
 		baths: 2,
 		guests: 4,
-		imgUrl:
-			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-19_sioafi.jpg",
+		imgUrl: "card-room-430x430-19.jpg",
 		isFeatured: true,
 		price: "150.00",
 		hostedBy: {
 			name: "Emily Gilbert",
-			imgUrl:
-				"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996358/avatars/card-host-150x150-12_kntyz7.jpg"
+			imgUrl: "card-host-150x150-12.jpg"
 		},
-		averageRating: 3
+		averageRating: 5
 	},
 	{
 		id: 3,
@@ -43,16 +39,14 @@ export default () => [
 		bedrooms: 4,
 		baths: 2,
 		guests: 8,
-		imgUrl:
-			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-20_b8yxus.jpg",
+		imgUrl: "card-room-430x430-20.jpg",
 		isFeatured: false,
 		price: "399.00",
 		hostedBy: {
 			name: "Michael Kelley",
-			imgUrl:
-				"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996357/avatars/card-host-150x150-11_kwednb.jpg"
+			imgUrl: "card-host-150x150.jpg"
 		},
-		averageRating: 3
+		averageRating: 3.5
 	},
 	{
 		id: 4,
@@ -61,14 +55,12 @@ export default () => [
 		bedrooms: 3,
 		baths: 2,
 		guests: 6,
-		imgUrl:
-			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-18_cirptp.jpg",
+		imgUrl: "card-room-430x430-18.jpg",
 		isFeatured: false,
 		price: "45.00",
 		hostedBy: {
 			name: "Michael Kelley",
-			imgUrl:
-				"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996357/avatars/card-host-150x150-11_kwednb.jpg"
+			imgUrl: "card-host-150x150-11.jpg"
 		},
 		averageRating: 5
 	},
@@ -79,105 +71,93 @@ export default () => [
 		bedrooms: 2,
 		baths: 1.5,
 		guests: 4,
-		imgUrl:
-			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-21_kbvwlm.jpg",
+		imgUrl: "card-room-430x430-21.jpg",
 		isFeatured: false,
 		price: "87.00",
 		hostedBy: {
 			name: "Nathan Alvarado",
-			imgUrl:
-				"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996357/avatars/card-host-150x150-6_bouues.jpg"
+			imgUrl: "card-host-150x150-6.jpg"
 		},
 		averageRating: 5
-	},
-	{
-		id: 6,
-		title: "Large And Modern Bedroom",
-		address: "198 Eureka St, San Francisco, CA 94114",
-		bedrooms: 1,
-		baths: 1,
-		guests: 2,
-		imgUrl:
-			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-14_fditbq.jpg",
-		isFeatured: true,
-		price: "105.00",
-		hostedBy: {
-			name: "Teresa Bradley",
-			imgUrl:
-				"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996358/avatars/card-host-150x150-13_avptr9.jpg"
-		},
-		averageRating: 2
-	},
-	{
-		id: 7,
-		title: "Designer Apartment With Pool",
-		address: "630 Alvarado St, San Francisco, CA 94114",
-		bedrooms: 2,
-		baths: 1.5,
-		guests: 4,
-		imgUrl:
-			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-13_rchoqy.jpg",
-		isFeatured: true,
-		price: "210.00",
-		hostedBy: {
-			name: "Emily Gilbert",
-			imgUrl:
-				"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996358/avatars/card-host-150x150-12_kntyz7.jpg"
-		},
-		averageRating: 3
-	},
-	{
-		id: 8,
-		title: "Spacious Single Room",
-		address: "2001 Webster St, San Francisco, CA 94115",
-		bedrooms: 2,
-		baths: 1,
-		guests: 1,
-		imgUrl:
-			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-14_fditbq.jpg",
-		isFeatured: true,
-		price: "67.00",
-		hostedBy: {
-			name: "Emily Gilbert",
-			imgUrl:
-				"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996358/avatars/card-host-150x150-12_kntyz7.jpg"
-		},
-		averageRating: 5
-	},
-	{
-		id: 9,
-		title: "Full House For Families",
-		address: "2601 Mariposa St, San Francisco, CA 94110",
-		bedrooms: 2,
-		baths: 2,
-		guests: 4,
-		imgUrl:
-			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-15_wvdgup.jpg",
-		isFeatured: true,
-		price: "399.00",
-		hostedBy: {
-			name: "Albert Rose",
-			imgUrl:
-				"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996357/avatars/card-host-150x150-3_n2e5x5.jpg"
-		},
-		averageRating: 4.5
-	},
-	{
-		id: 10,
-		title: "Modern Lake View Family Home",
-		address: "3715 26th St, San Francisco, CA 94110",
-		bedrooms: 3,
-		baths: 2,
-		guests: 6,
-		imgUrl:
-			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-12_zc0ufb.jpg",
-		isFeatured: false,
-		price: "299.00",
-		hostedBy: {
-			name: "Albert Rose",
-			imgUrl:
-				"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996357/avatars/card-host-150x150-3_n2e5x5.jpg"
-		},
-		averageRating: 2
 	}
+	// {
+	// 	id: 6,
+	// 	title: "Large And Modern Bedroom",
+	// 	address: "198 Eureka St, San Francisco, CA 94114",
+	// 	bedrooms: 1,
+	// 	baths: 1,
+	// 	guests: 2,
+	// 	imgUrl: "card-room-430x430-14.jpg",
+	// 	isFeatured: true,
+	// 	price: "105.00",
+	// 	hostedBy: {
+	// 		name: "Teresa Bradley",
+	// 		imgUrl: "card-host-150x150-13.jpg"
+	// 	},
+	// 	averageRating: 2
+	// },
+	// {
+	// 	id: 7,
+	// 	title: "Designer Apartment With Pool",
+	// 	address: "630 Alvarado St, San Francisco, CA 94114",
+	// 	bedrooms: 2,
+	// 	baths: 1.5,
+	// 	guests: 4,
+	// 	imgUrl: "card-room-430x430-13.jpg",
+	// 	isFeatured: true,
+	// 	price: "210.00",
+	// 	hostedBy: {
+	// 		name: "Emily Gilbert",
+	// 		imgUrl: "card-host-150x150-12.jpg"
+	// 	},
+	// 	averageRating: 3
+	// },
+	// {
+	// 	id: 8,
+	// 	title: "Spacious Single Room",
+	// 	address: "2001 Webster St, San Francisco, CA 94115",
+	// 	bedrooms: 2,
+	// 	baths: 1,
+	// 	guests: 1,
+	// 	imgUrl: "card-room-430x430-14.jpg",
+	// 	isFeatured: true,
+	// 	price: "67.00",
+	// 	hostedBy: {
+	// 		name: "Emily Gilbert",
+	// 		imgUrl: "card-host-150x150-12.jpg"
+	// 	},
+	// 	averageRating: 5
+	// },
+	// {
+	// 	id: 9,
+	// 	title: "Full House For Families",
+	// 	address: "2601 Mariposa St, San Francisco, CA 94110",
+	// 	bedrooms: 2,
+	// 	baths: 2,
+	// 	guests: 4,
+	// 	imgUrl: "card-room-430x430-15.jpg",
+	// 	isFeatured: true,
+	// 	price: "399.00",
+	// 	hostedBy: {
+	// 		name: "Albert Rose",
+	// 		imgUrl: "card-host-150x150-3.jpg"
+	// 	},
+	// 	averageRating: 4.5
+	// },
+	// {
+	// 	id: 10,
+	// 	title: "Modern Lake View Family Home",
+	// 	address: "3715 26th St, San Francisco, CA 94110",
+	// 	bedrooms: 3,
+	// 	baths: 2,
+	// 	guests: 6,
+	// 	imgUrl: "card-room-430x430-12.jpg",
+	// 	isFeatured: false,
+	// 	price: "299.00",
+	// 	hostedBy: {
+	// 		name: "Albert Rose",
+	// 		imgUrl: "card-host-150x150-3.jpg"
+	// 	},
+	// 	averageRating: 2
+	// }
 ];
