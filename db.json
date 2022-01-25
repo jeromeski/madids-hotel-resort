@@ -1,0 +1,152 @@
+[
+	{
+		"unitName": "Designer Room With Pool",
+		"qty": 20,
+		"roomType": "Executive",
+		"maxPeople": "2",
+		"rackRate": 210.0,
+		"isFeatured": true,
+		"imageurls": [
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-21_kbvwlm.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-20_b8yxus.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-19_sioafi.jpg"
+		],
+		"currentbookings": [],
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi est quam, volutpat et arcu eu, pharetra congue augue. Integer vel nibh eu eros interdum commodo. Vivamus finibus fringilla libero, id consectetur purus sollicitudin vel. Proin dapibus ante et pharetra luctus. Ut lacinia ante ut nunc pellentesque auctor. Proin laoreet erat sed ornare molestie. Fusce vehicula ut nulla facilisis vulputate. Quisque vel purus ac lectus tempus viverra. Maecenas at sem at erat pellentesque hendrerit nec in massa. Vestibulum nec lacinia dui, a congue ex. Vivamus ac ultricies mauris. Suspendisse commodo tempus suscipit. Nunc malesuada eu tortor in hendrerit."
+	},
+	{
+		"unitName": "Amazing Home For Families",
+		"qty": 10,
+		"roomType": "Regency",
+		"maxPeople": "10",
+		"rackRate": 399.0,
+		"isFeatured": false,
+		"imageurls": [
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-18_cirptp.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-14_fditbq.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-16_b2pziw.jpg"
+		],
+		"currentbookings": [],
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi est quam, volutpat et arcu eu, pharetra congue augue. Integer vel nibh eu eros interdum commodo. Vivamus finibus fringilla libero, id consectetur purus sollicitudin vel. Proin dapibus ante et pharetra luctus. Ut lacinia ante ut nunc pellentesque auctor. Proin laoreet erat sed ornare molestie. Fusce vehicula ut nulla facilisis vulputate. Quisque vel purus ac lectus tempus viverra. Maecenas at sem at erat pellentesque hendrerit nec in massa. Vestibulum nec lacinia dui, a congue ex. Vivamus ac ultricies mauris. Suspendisse commodo tempus suscipit. Nunc malesuada eu tortor in hendrerit."
+	},
+	{
+		"unitName": "Romantic Cove With View",
+		"qty": 10,
+		"roomType": "Premium",
+		"maxPeople": "3",
+		"rackRate": 199.0,
+		"isFeatured": false,
+		"imageurls": [
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-17_ngzkc7.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-15_wvdgup.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-13_rchoqy.jpg"
+		],
+		"currentbookings": [],
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi est quam, volutpat et arcu eu, pharetra congue augue. Integer vel nibh eu eros interdum commodo. Vivamus finibus fringilla libero, id consectetur purus sollicitudin vel. Proin dapibus ante et pharetra luctus. Ut lacinia ante ut nunc pellentesque auctor. Proin laoreet erat sed ornare molestie. Fusce vehicula ut nulla facilisis vulputate. Quisque vel purus ac lectus tempus viverra. Maecenas at sem at erat pellentesque hendrerit nec in massa. Vestibulum nec lacinia dui, a congue ex. Vivamus ac ultricies mauris. Suspendisse commodo tempus suscipit. Nunc malesuada eu tortor in hendrerit."
+	},
+	{
+		"unitName": "Unique Modern Loft",
+		"qty": 10,
+		"roomType": "Deluxe",
+		"maxPeople": "2",
+		"rackRate": 99.0,
+		"isFeatured": true,
+		"imageurls": [
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-12_zc0ufb.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-10_rdpez9.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-11_hbtlbs.jpgg"
+		],
+		"currentbookings": [],
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi est quam, volutpat et arcu eu, pharetra congue augue. Integer vel nibh eu eros interdum commodo. Vivamus finibus fringilla libero, id consectetur purus sollicitudin vel. Proin dapibus ante et pharetra luctus. Ut lacinia ante ut nunc pellentesque auctor. Proin laoreet erat sed ornare molestie. Fusce vehicula ut nulla facilisis vulputate. Quisque vel purus ac lectus tempus viverra. Maecenas at sem at erat pellentesque hendrerit nec in massa. Vestibulum nec lacinia dui, a congue ex. Vivamus ac ultricies mauris. Suspendisse commodo tempus suscipit. Nunc malesuada eu tortor in hendrerit."
+	},
+	{
+		"unitName": "Romantic Cove With View",
+		"qty": 10,
+		"roomType": "Premium",
+		"maxPeople": "3",
+		"rackRate": 199.0,
+		"isFeatured": true,
+		"imageurls": [
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-17_ngzkc7.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-15_wvdgup.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-13_rchoqy.jpg"
+		],
+		"currentbookings": [],
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi est quam, volutpat et arcu eu, pharetra congue augue. Integer vel nibh eu eros interdum commodo. Vivamus finibus fringilla libero, id consectetur purus sollicitudin vel. Proin dapibus ante et pharetra luctus. Ut lacinia ante ut nunc pellentesque auctor. Proin laoreet erat sed ornare molestie. Fusce vehicula ut nulla facilisis vulputate. Quisque vel purus ac lectus tempus viverra. Maecenas at sem at erat pellentesque hendrerit nec in massa. Vestibulum nec lacinia dui, a congue ex. Vivamus ac ultricies mauris. Suspendisse commodo tempus suscipit. Nunc malesuada eu tortor in hendrerit."
+	},
+	{
+		"unitName": "Unique Modern Loft",
+		"qty": 10,
+		"roomType": "Premium",
+		"maxPeople": "2",
+		"rackRate": 159.0,
+		"isFeatured": false,
+		"imageurls": [
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-12_zc0ufb.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-10_rdpez9.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-11_hbtlbs.jpg"
+		],
+		"currentbookings": [],
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi est quam, volutpat et arcu eu, pharetra congue augue. Integer vel nibh eu eros interdum commodo. Vivamus finibus fringilla libero, id consectetur purus sollicitudin vel. Proin dapibus ante et pharetra luctus. Ut lacinia ante ut nunc pellentesque auctor. Proin laoreet erat sed ornare molestie. Fusce vehicula ut nulla facilisis vulputate. Quisque vel purus ac lectus tempus viverra. Maecenas at sem at erat pellentesque hendrerit nec in massa. Vestibulum nec lacinia dui, a congue ex. Vivamus ac ultricies mauris. Suspendisse commodo tempus suscipit. Nunc malesuada eu tortor in hendrerit."
+	},
+	{
+		"unitName": "Friendly And Stylish Room",
+		"qty": 10,
+		"roomType": "Executive",
+		"maxPeople": "2",
+		"rackRate": 245.0,
+		"isFeatured": true,
+		"imageurls": [
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-8_f1kqga.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-9_anl3s5.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-6_t9lndv.jpg"
+		],
+		"currentbookings": [],
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi est quam, volutpat et arcu eu, pharetra congue augue. Integer vel nibh eu eros interdum commodo. Vivamus finibus fringilla libero, id consectetur purus sollicitudin vel. Proin dapibus ante et pharetra luctus. Ut lacinia ante ut nunc pellentesque auctor. Proin laoreet erat sed ornare molestie. Fusce vehicula ut nulla facilisis vulputate. Quisque vel purus ac lectus tempus viverra. Maecenas at sem at erat pellentesque hendrerit nec in massa. Vestibulum nec lacinia dui, a congue ex. Vivamus ac ultricies mauris. Suspendisse commodo tempus suscipit. Nunc malesuada eu tortor in hendrerit."
+	},
+	{
+		"unitName": "City Center Lovely Room",
+		"qty": 10,
+		"roomType": "Deluxe",
+		"maxPeople": "2",
+		"rackRate": 45.0,
+		"isFeatured": false,
+		"imageurls": [
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-7_wxpe0x.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-4_im1g5y.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-5_x2ax6f.jpg"
+		],
+		"currentbookings": [],
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi est quam, volutpat et arcu eu, pharetra congue augue. Integer vel nibh eu eros interdum commodo. Vivamus finibus fringilla libero, id consectetur purus sollicitudin vel. Proin dapibus ante et pharetra luctus. Ut lacinia ante ut nunc pellentesque auctor. Proin laoreet erat sed ornare molestie. Fusce vehicula ut nulla facilisis vulputate. Quisque vel purus ac lectus tempus viverra. Maecenas at sem at erat pellentesque hendrerit nec in massa. Vestibulum nec lacinia dui, a congue ex. Vivamus ac ultricies mauris. Suspendisse commodo tempus suscipit. Nunc malesuada eu tortor in hendrerit."
+	},
+	{
+		"unitName": "Affordable Urban Room",
+		"qty": 20,
+		"roomType": "Deluxe",
+		"maxPeople": "2",
+		"rackRate": 69.0,
+		"isFeatured": true,
+		"imageurls": [
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996304/rooms/430x300/card-room-430x430-3_cjruhh.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996304/rooms/430x300/card-room-430x430-2_x8qtwp.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996304/rooms/430x300/card-room-430x430-0_tlvhtv.jpg"
+		],
+		"currentbookings": [],
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi est quam, volutpat et arcu eu, pharetra congue augue. Integer vel nibh eu eros interdum commodo. Vivamus finibus fringilla libero, id consectetur purus sollicitudin vel. Proin dapibus ante et pharetra luctus. Ut lacinia ante ut nunc pellentesque auctor. Proin laoreet erat sed ornare molestie. Fusce vehicula ut nulla facilisis vulputate. Quisque vel purus ac lectus tempus viverra. Maecenas at sem at erat pellentesque hendrerit nec in massa. Vestibulum nec lacinia dui, a congue ex. Vivamus ac ultricies mauris. Suspendisse commodo tempus suscipit. Nunc malesuada eu tortor in hendrerit."
+	},
+	{
+		"unitName": "Sunset Studio Room",
+		"qty": 10,
+		"roomType": "Regency",
+		"maxPeople": "4",
+		"rackRate": 389.0,
+		"isFeatured": true,
+		"imageurls": [
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996304/rooms/430x300/card-room-430x430-1_x3sjaz.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1643110312/rooms/430x300/card-room-430x430-23_cj1ubr.jpg",
+			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1643110312/rooms/430x300/card-room-430x430-22_dq2cq7.jpg"
+		],
+		"currentbookings": [],
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi est quam, volutpat et arcu eu, pharetra congue augue. Integer vel nibh eu eros interdum commodo. Vivamus finibus fringilla libero, id consectetur purus sollicitudin vel. Proin dapibus ante et pharetra luctus. Ut lacinia ante ut nunc pellentesque auctor. Proin laoreet erat sed ornare molestie. Fusce vehicula ut nulla facilisis vulputate. Quisque vel purus ac lectus tempus viverra. Maecenas at sem at erat pellentesque hendrerit nec in massa. Vestibulum nec lacinia dui, a congue ex. Vivamus ac ultricies mauris. Suspendisse commodo tempus suscipit. Nunc malesuada eu tortor in hendrerit."
+	}
+]
