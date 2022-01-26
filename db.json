@@ -6,7 +6,13 @@
 		"maxPeople": "2",
 		"rackRate": 210.0,
 		"isFeatured": true,
-		"imageurls": [
+		"address": "56 Forest View Dr, San Francisco, CA 94132",
+		"bedrooms": 2,
+		"baths": 2,
+		"hostedBy": "Teresa Bradley",
+		"hostImgUrl": "https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996358/avatars/card-host-150x150-13_avptr9.jpg",
+		"averageRating": 5,
+		"imgUrls": [
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-21_kbvwlm.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-20_b8yxus.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-19_sioafi.jpg"
@@ -21,7 +27,13 @@
 		"maxPeople": "10",
 		"rackRate": 399.0,
 		"isFeatured": false,
-		"imageurls": [
+		"address": "1499 34th Ave, San Francisco, CA 94122",
+		"bedrooms": 2,
+		"baths": 2,
+		"hostedBy": "Emily Gilbert",
+		"hostImgUrl": "https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996357/avatars/card-host-150x150-10_hcag1a.jpg",
+		"averageRating": 3.5,
+		"imgUrls": [
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-18_cirptp.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-14_fditbq.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-16_b2pziw.jpg"
@@ -36,7 +48,13 @@
 		"maxPeople": "3",
 		"rackRate": 199.0,
 		"isFeatured": false,
-		"imageurls": [
+		"address": "6298 California St, San Francisco, CA 94121",
+		"bedrooms": 4,
+		"baths": 2,
+		"hostedBy": "Michael Kelley",
+		"hostImgUrl": "https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996357/avatars/card-host-150x150-11_kwednb.jpg",
+		"averageRating": 4.5,
+		"imgUrls": [
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-17_ngzkc7.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-15_wvdgup.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-13_rchoqy.jpg"
@@ -51,7 +69,13 @@
 		"maxPeople": "2",
 		"rackRate": 99.0,
 		"isFeatured": true,
-		"imageurls": [
+		"address": "3798 Divisadero St, San Francisco, CA 94123",
+		"bedrooms": 1,
+		"baths": 2,
+		"hostedBy": "Michael Kelley",
+		"hostImgUrl": "https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996357/avatars/card-host-150x150-11_kwednb.jpg",
+		"averageRating": 4,
+		"imgUrls": [
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-12_zc0ufb.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-10_rdpez9.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-11_hbtlbs.jpgg"
@@ -66,7 +90,13 @@
 		"maxPeople": "3",
 		"rackRate": 199.0,
 		"isFeatured": true,
-		"imageurls": [
+		"address": "1695 Filbert St, San Francisco, CA 94123",
+		"bedrooms": 1,
+		"baths": 2,
+		"hostedBy": "Michael Kelley",
+		"hostImgUrl": "https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996357/avatars/card-host-150x150-11_kwednb.jpg",
+		"averageRating": 3.5,
+		"imgUrls": [
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-17_ngzkc7.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-15_wvdgup.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996306/rooms/430x300/card-room-430x430-13_rchoqy.jpg"
@@ -81,7 +111,13 @@
 		"maxPeople": "2",
 		"rackRate": 159.0,
 		"isFeatured": false,
-		"imageurls": [
+		"address": "2001 Webster St, San Francisco, CA 94115",
+		"bedrooms": 1,
+		"baths": 2,
+		"hostedBy": "Nathan Alvarado",
+		"hostImgUrl": "https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996357/avatars/card-host-150x150-6_bouues.jpg",
+		"averageRating": 4.5,
+		"imgUrls": [
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-12_zc0ufb.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-10_rdpez9.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-11_hbtlbs.jpg"
@@ -96,7 +132,13 @@
 		"maxPeople": "2",
 		"rackRate": 245.0,
 		"isFeatured": true,
-		"imageurls": [
+		"address": "198 Eureka St, San Francisco, CA 94114",
+		"bedrooms": 1,
+		"baths": 1,
+		"hostedBy": "Emily Gilbert",
+		"hostImgUrl": "https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996357/avatars/card-host-150x150-10_hcag1a.jpg",
+		"averageRating": 2.5,
+		"imgUrls": [
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-8_f1kqga.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-9_anl3s5.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-6_t9lndv.jpg"
@@ -111,7 +153,13 @@
 		"maxPeople": "2",
 		"rackRate": 45.0,
 		"isFeatured": false,
-		"imageurls": [
+		"address": "2601 Mariposa St, San Francisco, CA 94110",
+		"bedrooms": 1,
+		"baths": 1,
+		"hostedBy": "Albert Rose",
+		"hostImgUrl": "https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996357/avatars/card-host-150x150-2_h3lnco.jpg",
+		"averageRating": 4,
+		"imgUrls": [
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-7_wxpe0x.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-4_im1g5y.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996305/rooms/430x300/card-room-430x430-5_x2ax6f.jpg"
@@ -126,7 +174,13 @@
 		"maxPeople": "2",
 		"rackRate": 69.0,
 		"isFeatured": true,
-		"imageurls": [
+		"address": "3715 26th St, San Francisco, CA 94110",
+		"bedrooms": 1,
+		"baths": 1,
+		"hostedBy": "Albert Rose",
+		"hostImgUrl": "https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996357/avatars/card-host-150x150-2_h3lnco.jpg",
+		"averageRating": 3.5,
+		"imgUrls": [
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996304/rooms/430x300/card-room-430x430-3_cjruhh.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996304/rooms/430x300/card-room-430x430-2_x8qtwp.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996304/rooms/430x300/card-room-430x430-0_tlvhtv.jpg"
@@ -141,7 +195,13 @@
 		"maxPeople": "4",
 		"rackRate": 389.0,
 		"isFeatured": true,
-		"imageurls": [
+		"address": "3715 26th St, San Francisco, CA 94110",
+		"bedrooms": 2,
+		"baths": 2,
+		"hostedBy": "Alexander Miller",
+		"hostImgUrl": "https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996357/avatars/card-host-150x150-3_n2e5x5.jpg",
+		"averageRating": 3.5,
+		"imgUrls": [
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1642996304/rooms/430x300/card-room-430x430-1_x3sjaz.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1643110312/rooms/430x300/card-room-430x430-23_cj1ubr.jpg",
 			"https://res.cloudinary.com/ecom-demo-02/image/upload/v1643110312/rooms/430x300/card-room-430x430-22_dq2cq7.jpg"

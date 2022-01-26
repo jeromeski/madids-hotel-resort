@@ -8,7 +8,7 @@ router.get("/getallrooms", async function (req, res, next) {
 		const rooms = await Room.find({});
 		return res.json({ rooms });
 	} catch (error) {
-		res.status(400).json({ message: error });
+		res.status(400).json({ message: error.message });
 	}
 });
 

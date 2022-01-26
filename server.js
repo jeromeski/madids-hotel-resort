@@ -25,7 +25,7 @@ const roomRoute = require("./routes/room");
 
 app.use("/api/rooms", roomRoute);
 
-const PORT = 4000 || process.env.PORT;
+const PORT = process.env.PORT;
 
 app.listen(PORT, () => {
 	console.log(`Server is running on port: ${PORT}`);

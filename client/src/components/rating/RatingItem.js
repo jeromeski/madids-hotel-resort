@@ -2,7 +2,6 @@ import React from "react";
 
 const RatingItem = (props) => {
 	const { className, starText } = props;
-	console.log(props);
 	if (starText) {
 		return (
 			<li>
